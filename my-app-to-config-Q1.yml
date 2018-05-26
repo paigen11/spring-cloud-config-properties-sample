@@ -1,0 +1,5 @@
+configurations:
+  featureToggleFlag: false
+  my-custom-flag: true
+  sampleCronJob: "0 0 2 * * *"
+  sampleUrl: https://google.com
