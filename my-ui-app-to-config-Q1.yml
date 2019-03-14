@@ -1,1 +1,10 @@
 modifyDatesToggle: false
+
+excludedStores:
+  storeList:
+    - 6903
+    - 6905
+    - 6175
+    - 6177
+    - 6845
+    - 6158
